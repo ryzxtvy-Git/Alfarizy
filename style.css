@@ -1,0 +1,21 @@
+body {
+  background-color: #9999ff; /* warna */
+  font-family: Arial, sans-serif; /* huruf */
+  color: #0000ff; /* warna tesk */
+}
+
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: while;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%;
+}
